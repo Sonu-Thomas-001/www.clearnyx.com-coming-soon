@@ -82,8 +82,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sonu-Thomas-001/www.clearnyx.com.git
-   cd www.clearnyx.com
+   git clone https://github.com/Sonu-Thomas-001/www.clearnyx.com-coming-soon.git
+   cd www.clearnyx.com-coming-soon
    ```
 
 2. Install dependencies:
